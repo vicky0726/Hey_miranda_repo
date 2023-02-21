@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "807801820482",
+    "project_id": "signinexample-dd2aa",
+    "storage_bucket": "signinexample-dd2aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807801820482:android:3bd84cba2bb93b773824db",
+        "android_client_info": {
+          "package_name": "com.example.hey_miranda_repo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807801820482-3kvjhu3jcuetp8a53sk09cemm13ieerc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hey_miranda_repo",
+            "certificate_hash": "88b824f8eb97a188e472bb35da4c108a0889de87"
+          }
+        },
+        {
+          "client_id": "807801820482-c360mo0ftnee5hahgkk3nckvvaj5km2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbPIMKvgVYTzEHnDWlhOSAy2IjM5b1Bt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807801820482-c360mo0ftnee5hahgkk3nckvvaj5km2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
